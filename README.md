@@ -33,4 +33,4 @@ _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 Copyright (C) 2024, JustDev Store ID.
 
-- Created by [ FOXSTORE ](https://github.com/JustDev-Store-ID)
+- Created by [ JustDev Store ID ](https://github.com/JustDev-Store-ID)
